@@ -1,0 +1,23 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "A theoretical travel website using Skyscanner API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed/index.js",
+    "watch": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveyrojo/travel-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveyrojo/travel-site/issues"
+  },
+  "homepage": "https://github.com/daveyrojo/travel-site#readme"
+}
